@@ -1,4 +1,4 @@
 p {
-    background-image: image("images\3653627.jpg")
+    background-image: url("images\3653627.jpg")
     background-attachment: fixed;
   }
